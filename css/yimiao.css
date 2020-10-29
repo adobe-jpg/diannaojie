@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:rgba(111,186,228,0.15);
+	font-family: "微软雅黑";
+}
+#one{
+	margin-top: 5%;	
+}
